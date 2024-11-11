@@ -1,0 +1,25 @@
+{
+    "channels": [
+    {
+    "title": "online_channel",
+    "externalId": "online_channel",
+    "hierarchy": [
+    {
+    "title": "Screens",
+    "path": "/"
+    },
+    {
+    "title": "Starbucks-screens",
+    "path": "/content/screens/starbucks-screens"
+    },
+    {
+    "title": "Locations",
+    "path": "/content/screens/starbucks-screens/locations"
+    }
+    ],
+    "manifestPath": "online_channel.manifest.json",
+    "unpackingStrategy": "_merged",
+    "lastModified": "2023-10-18T09:08:56.117Z"
+    }
+]
+}

@@ -1,0 +1,20 @@
+{
+"version": "3.0",
+"contentDelivery": {
+"providers": [
+{
+"name": "aem-publish",
+"endpoint": "/"
+}
+],
+"defaultProvider": "aem-publish"
+},
+"timestamp": 1731319627567,
+"entries": [
+{
+"path": "https://www.youtube.com/",
+"timestamp": 1729490369829
+}
+],
+"status": 200
+}
